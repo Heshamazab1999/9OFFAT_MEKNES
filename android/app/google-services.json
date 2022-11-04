@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "271075116864",
+    "project_id": "ordery-app",
+    "storage_bucket": "ordery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271075116864:android:36701481a07a138d70dca5",
+        "android_client_info": {
+          "package_name": "com.ordery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271075116864-u82csjltpjoct7qb644mjla56dkrbr0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUWC1vjUt2FE6ytQH6Mn4dY6r631Wfec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271075116864-u82csjltpjoct7qb644mjla56dkrbr0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271075116864:android:57cf716f7d01d8d570dca5",
+        "android_client_info": {
+          "package_name": "com.fatmeknes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271075116864-u82csjltpjoct7qb644mjla56dkrbr0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUWC1vjUt2FE6ytQH6Mn4dY6r631Wfec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271075116864-u82csjltpjoct7qb644mjla56dkrbr0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
